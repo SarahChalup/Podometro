@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIProductor", "APIProductor\APIProductor.csproj", "{D15BCE90-8754-4D3F-A7FC-F0DB1F3B24CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FncConsumidor", "FncConsumidor\FncConsumidor.csproj", "{8C7F1F77-CA39-4D10-8C6C-9CDABD036438}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D15BCE90-8754-4D3F-A7FC-F0DB1F3B24CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D15BCE90-8754-4D3F-A7FC-F0DB1F3B24CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D15BCE90-8754-4D3F-A7FC-F0DB1F3B24CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D15BCE90-8754-4D3F-A7FC-F0DB1F3B24CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C7F1F77-CA39-4D10-8C6C-9CDABD036438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C7F1F77-CA39-4D10-8C6C-9CDABD036438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C7F1F77-CA39-4D10-8C6C-9CDABD036438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C7F1F77-CA39-4D10-8C6C-9CDABD036438}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {386B080C-8DA3-473B-A5F3-45F136F203E1}
+	EndGlobalSection
+EndGlobal
